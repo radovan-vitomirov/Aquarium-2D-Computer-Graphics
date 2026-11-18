@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\iv godina\\računarska grafika\\vežbe\\projekat 2d\\kostur\\source\\render.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "f:\\iv godina\\računarska grafika\\vežbe\\projekat 2d\\kostur\\header\\render.h",
+            "f:\\iv godina\\računarska grafika\\vežbe\\projekat 2d\\kostur\\packages\\glew-2.2.0.2.2.0.1\\build\\native\\include\\gl\\glew.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\um\\gl\\glu.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\shared\\winapifamily.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\shared\\winpackagefamily.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\um\\gl\\gl.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

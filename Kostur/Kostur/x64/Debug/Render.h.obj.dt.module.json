@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Kostur\\x64\\Debug\\Render.obj",
+            "outputs": [
+                "Kostur\\x64\\Debug\\Render.h.obj.dt.module.json",
+                "Kostur\\x64\\Debug\\Render.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
