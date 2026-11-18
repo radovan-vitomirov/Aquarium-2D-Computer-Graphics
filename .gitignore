@@ -1,0 +1,19 @@
+# Visual Studio cache and user-specific files
+.vs/
+*.user
+*.suo
+
+# Build output (intermediate and binaries)
+Kostur/x64/
+Kostur/Kostur/x64/
+Kostur/Debug/
+Kostur/Release/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.ipch
+*.tlog
+
+# Office temporary files
+~$*
